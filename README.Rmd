@@ -19,3 +19,15 @@ All submissions to the github repo will be automatically uploaded for grading on
 Submit a link to your repository on Canvas (only one submission per team) to signal to the instructors that you are done with your submission.
 
 This is a line from RStudio
+
+## step 12.2
+-Ewan's notes: copying the URL was pretty simple when following the directions
+
+## step 12.3
+-Ewan's notes: I had no issues creating a new project and the directions were easy to follow
+
+## step 12.4
+-Ewan's notes: I had no problems making and saving a change
+
+## step 12.5
+-Ewan's notes: It was a little hard to see where the push button was at first, but I had no issue after that
